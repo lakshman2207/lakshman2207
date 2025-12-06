@@ -62,14 +62,6 @@
 - ⚡ Finalist – TCE IoT Club Tech Premier League  
 - 🧪 Completed Selenium Automation (Java) Training  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lakshman2207&show_icons=true&theme=tokyonight" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshman2207&layout=compact&theme=tokyonight" height="180px" />
-</p>
 
 ---
 
